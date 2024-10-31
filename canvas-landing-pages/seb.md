@@ -15,5 +15,5 @@ You are required to complete this at the end of the day as marked on the class s
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Setup](../setup/README.md)
+- [Exercise](../exercise/README.md)
