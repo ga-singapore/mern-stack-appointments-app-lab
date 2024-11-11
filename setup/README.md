@@ -103,7 +103,7 @@ Make a new repository on [GitHub](https://github.com/) named react-components-la
 Link your local project to your remote GitHub repo:
 
 ```bash
-git remote add origin https://github.com/<github-username>/create-expense-app-lab.git
+git remote add origin https://github.com/<github-username>/mern-stack-appointments-app-lab.git
 git push origin main
 ```
 
