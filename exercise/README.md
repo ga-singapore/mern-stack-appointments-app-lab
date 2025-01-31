@@ -1,5 +1,7 @@
-# ![Create Expense App Lab - Exercise](./assets/hero.png)
-
+<h1>
+  <span class="headline">MERN Stack Appointments App Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 ## Overview
 
 In this lab, you'll build a MERN stack app, where your front-end is built using React and your back-end uses Express for the API layer and Mongodb as the database.

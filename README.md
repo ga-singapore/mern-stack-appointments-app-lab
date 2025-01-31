@@ -1,5 +1,7 @@
-# ![React Components Lab](./assets/hero.png)
-
+<h1>
+  <span class="headline">MERN Stack Appointments App Lab</span>
+  <span class="subhead"></span>
+</h1>
 ## About 
 
 In this lab, you will create a MERN stack app using the knowledge you gained during unit 2 React and unit 3 express.

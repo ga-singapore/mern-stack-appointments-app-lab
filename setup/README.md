@@ -1,5 +1,7 @@
-# ![React Components Lab - Setup](./assets/hero.png)
-
+<h1>
+  <span class="headline">MERN Stack Appointments App Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 # Setup
 
 Open your Terminal application and navigate to your `~/code/ga/labs` directory:
