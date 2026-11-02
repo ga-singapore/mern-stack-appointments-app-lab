@@ -22,7 +22,7 @@ You are required to complete this at the end of the day as marked on the class s
 
 ## Solution code (Todo?)
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/react-components-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/react-components-lab-solution)
 
 ## Internal resources
 
